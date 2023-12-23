@@ -1,3 +1,5 @@
+![Alt text](images/git_profile.png)
+
 👋 Hello, I'm Abdul Samad Khan, a dedicated front-end developer with two years of freelancing experience on Fiverr. My journey in web programming has equipped me with a solid foundation in HTML, CSS, Bootstrap, and JavaScript. Recently, I've delved into the exciting world of ReactJS, mastering its fundamentals and eager to apply my skills in dynamic web development.
 
 🚀 As a tech enthusiast, I thrive on solving complex problems and creating seamless user experiences. My passion for clean and efficient code reflects in my work, ensuring that every project I undertake meets the highest standards of quality.
